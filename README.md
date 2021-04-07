@@ -11,8 +11,8 @@ Additional description about the project and its features.
 - React,
 - React-DOM,
 - [create-react-app](https://github.com/facebook/create-react-app)
-- Yarn
-- CSS
+- Yarn,
+- CSS,
 - ES6
 
 ## Getting Started
