@@ -12,10 +12,6 @@ Additional description about the project and its features.
 - React-dom v17,
 - [create-react-app](https://github.com/facebook/create-react-app)
 
-## Live Demo
-
-[Live Demo Link](http://gbisimwa.me/TIC-TAC-TOE-React/)
-
 ## Getting Started
 
 In order to run locally this project type the following commands over the terminal in Linux or Mac or the Windows cmd console:
