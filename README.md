@@ -8,9 +8,12 @@ Additional description about the project and its features.
 
 ## Built With
 
-- React v.17,
-- React-dom v17,
+- React,
+- React-DOM,
 - [create-react-app](https://github.com/facebook/create-react-app)
+- Yarn
+- CSS
+- ES6
 
 ## Getting Started
 
